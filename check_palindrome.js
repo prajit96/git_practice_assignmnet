@@ -1,6 +1,6 @@
 // check Palindrome or not
 
-let str=racecar;
+let str="racecar";
 let string="";
 
   for(let i=str.length-1;i>=0;i--){
